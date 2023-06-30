@@ -1,0 +1,140 @@
+@font-face {
+    font-family: '';
+    src: url();
+    display: block;
+    margin: auto;
+}
+body{
+    text-align: center;
+    line-height: 1.65;
+    font-family: 'Open Sans',sans-serif
+}
+header{
+    text-align: center;
+    padding: 1 rem 0 rem;
+    background-color: black;
+    line-height: 1.5px;
+}
+
+.logo{
+    margin: 0 auto;
+}
+.box1{
+line-height: 1.5px;
+margin: 0;
+background-position: 100%;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.box2{
+    margin: auto;
+    text-align: center;
+    line-height: 1.5;
+    font:normal 5px arial;
+    text-align: center;
+}
+.logo1
+{
+    margin:auto
+    width: 75%;
+    border: radius 100%;
+}
+.box3
+{
+    margin: auto;
+    text-align: center;
+}
+.box4{
+    margin: auto;
+    text-align: center;
+    background-color: red;
+    color: white;
+}
+h2.epic{
+    display: block;
+    font-size: 50px;
+    font-weight: bolder;
+}
+tt{
+    font-weight: bold 20px;
+    color: #25a2c3;
+    line-height: 1;
+    font-size: 50px;
+    line-height: 1;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2rem;
+
+}
+p {
+    display: block;
+    font-weight: 30;
+    line-height: 2;
+    font-size: 20px;
+  }
+  #box5 {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 2px 16px;
+    border-width: 4px;
+    border-style: solid;
+    border: #393d41;
+    margin: 40px;
+    text-align: center;
+}
+#box8 {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 2px 16px;
+    border-width: 4px;
+    border-style: solid;
+    border: #393d41;
+    margin: 40px;
+    text-align: center;
+  }
+  #box7 {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 2px 16px;
+    border-width: 4px;
+    border-style: solid;
+    border: #393d41;
+    margin: 40px;
+    text-align: center;
+  }
+  #box8 {
+    background-color: #29bde2;
+    border-style: solid;
+    color: white;
+    cursor: pointer;
+    text-decoration: white;
+    font-size: 25px;
+  }
+.box.logo
+{
+    width: 100%;
+}
+
+.start{
+    color: white;
+    text-align: center;
+    background-color: ;
+    border-radius: 5px ;
+    font:bold 12px;
+   size: 5px;
+padding: 1em;
+width: 10em;
+border: none;
+font: bold 15px;
+}
+
+.titolo{
+    display: block;
+    font-weight: bold;
+    color: #25a2c3;
+    line-height: 1;
+    font-size: 50px;
+}
+
+p.p1
+{
+    display: block;
+    line-height: 1.5;
+}
+
