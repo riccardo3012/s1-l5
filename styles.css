@@ -63,7 +63,6 @@ tt{
     line-height: 1;
     font-family: "Montserrat", sans-serif;
     font-size: 2rem;
-
 }
 p {
     display: block;
@@ -110,20 +109,18 @@ p {
 {
     width: 100%;
 }
-
 .start{
     color: white;
     text-align: center;
     background-color: ;
-    border-radius: 5px ;
+    border-radius: 15px ;
     font:bold 12px;
-   size: 5px;
+   size: 15px;
 padding: 1em;
 width: 10em;
 border: none;
 font: bold 15px;
 }
-
 .titolo{
     display: block;
     font-weight: bold;
@@ -131,7 +128,6 @@ font: bold 15px;
     line-height: 1;
     font-size: 50px;
 }
-
 p.p1
 {
     display: block;
